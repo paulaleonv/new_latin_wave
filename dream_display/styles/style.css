@@ -1,0 +1,28 @@
+html, body {
+  margin: 2%;
+  padding: 12;
+  font-size: 1.4em;
+  font-family: "avenir", sans-serif;
+  text-align: center;
+  background-color: black;
+
+}
+
+h1 {
+  font-size: 1.1em;
+  font-weight:lighter;
+  letter-spacing: 2.6px;
+  color: #ebe5e3
+}
+
+p  {
+  border-radius: 7px;
+  background-color: #ebe5e3;
+  width: 30%;
+  height: 250px;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 0.5em;
+  letter-spacing: 2px;
+  line-height: 1.6;
+}
